@@ -1,6 +1,6 @@
 class ListNode {
     int val;
-    dsa.week1.minimal.ListNode next;
+    dsa.week_15.minimal.ListNode next;
     ListNode(int x) {
         val = x;
         next = null;

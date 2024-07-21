@@ -1,4 +1,4 @@
-package dsa.week1.minimal;
+package dsa.week_15.minimal;
 
 class Solution {
     public int[] getModifiedArray(int length, int[][] updates){

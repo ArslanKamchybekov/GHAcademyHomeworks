@@ -1,4 +1,4 @@
-package dsa.week1.minimal;
+package dsa.week_15.minimal;
 
 import java.util.Arrays;
 
