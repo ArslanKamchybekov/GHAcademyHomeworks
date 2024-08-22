@@ -11,3 +11,6 @@ GrowthHungry Academy Discrete Mathematics and Data Structure &amp; Algorithms ho
 
 - 🟢 Week 14 (will upload in a few days...)
 - 🟢 Week 15
+- 🟢 Week 16
+- 🟢 Week 17
+- 🟢 Week 18
