@@ -9,7 +9,7 @@ GrowthHungry Academy Discrete Mathematics and Data Structure &amp; Algorithms ho
 
 ## DS & A Homeworks Status
 
-- 🟢 Week 14 (will upload in a few days...)
+- 🟢 Week 14
 - 🟢 Week 15
 - 🟢 Week 16
 - 🟢 Week 17
