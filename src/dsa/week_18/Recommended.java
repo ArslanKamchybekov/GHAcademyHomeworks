@@ -1,5 +1,6 @@
 package dsa.week_18;
 
+
 class Solution {
     public int trap(int[] heights) {
         int res = 0;
